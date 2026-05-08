@@ -1,7 +1,5 @@
 La vida de Brian
-<<<<<<< HEAD
 Monty pyton
-=======
 pelicula2
->>>>>>> origin/main
 Pelicula3
+sentidovida
